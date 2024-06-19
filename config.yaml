@@ -21,3 +21,4 @@ images:
   - coredns/coredns:1.8.6
   - velero/velero-restore-helper:v1.12.4
   - velero/velero:v1.12.4
+  
